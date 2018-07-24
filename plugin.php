@@ -19,7 +19,7 @@
 
 /**
  * Loading `WP_EXT_Event`.
- * ------------------------------------------------------------------------------------------------------------------ */
+ */
 
 function run_wp_ext_event() {
 	require_once( plugin_dir_path( __FILE__ ) . 'includes/WP_EXT_Event.class.php' );
